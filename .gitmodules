@@ -1,3 +1,6 @@
 [submodule "PY32F002B_Keil_Template"]
 	path = PY32F002B_Keil_Template
 	url = https://github.com/Assemcorp/PY32F002B_Keil_Template.git
+[submodule "PY32F002B_Flash_R-W"]
+	path = PY32F002B_Flash_R-W
+	url = https://github.com/Assemcorp/PY32F002B_Flash_R-W.git
