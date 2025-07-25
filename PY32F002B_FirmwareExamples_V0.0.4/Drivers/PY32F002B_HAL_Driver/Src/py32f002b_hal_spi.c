@@ -166,11 +166,11 @@
   ******************************************************************************
   * @attention
   *
-  * <h2><center>&copy; Copyright (c) Puya Semiconductor Co.
-  * All rights reserved.</center></h2>
+  * Copyright (c) Puya Semiconductor Co.
+  * All rights reserved.
   *
-  * <h2><center>&copy; Copyright (c) 2016 STMicroelectronics.
-  * All rights reserved.</center></h2>
+  * Copyright (c) 2016 STMicroelectronics.
+  * All rights reserved.
   *
   * This software component is licensed by ST under BSD 3-Clause license,
   * the "License"; You may not use this file except in compliance with the
