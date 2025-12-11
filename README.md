@@ -26,6 +26,6 @@ Compile and flash to the board using J-Link.
 
 ⚠️ Notes If you see trace hw not present in Keil, SWO trace is not supported on this chip. LiveWatch requires variables to be located in RAM and the project to be compiled with -O0 optimization.
 
-#AssemCorp Application Team 2025
+@AssemCorpApplicationTeam
 
 ![Hello](F002B_Kit_V11.png)
