@@ -28,4 +28,4 @@ Compile and flash to the board using J-Link.
 
 #AssemCorp Application Team 2025
 
-![Hello](F030_Kit_V11.png)
+![Hello](F002B_Kit_V11.png)
