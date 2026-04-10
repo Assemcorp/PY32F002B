@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/Inc",
+                "${workspaceFolder}/Src",
+                "${workspaceFolder}/Src/Puya_Lcd",
+                "${workspaceFolder}/EIDE/.pack/Puya/PY32F0xx_DFP.1.2.0/CMSIS",
+                "${workspaceFolder}/EIDE/.pack/Puya/PY32F0xx_DFP.1.2.0/Puya.PY32F0xx_HAL_Driver/Inc"
+            ],
+            "defines": [
+                "PY32F002Bxx",
+                "USE_HAL_DRIVER"
+            ],
+            "compilerPath": "C:/Keil_v5/ARM/ARMCC/Bin/armcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}

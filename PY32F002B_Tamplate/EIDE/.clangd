@@ -1,0 +1,17 @@
+CompileFlags:
+  Add:
+    - -IC:\Keil_v5\ARM\ARMCLANG/include
+    - -IC:\Keil_v5\ARM\ARMCLANG/include/libcxx
+    - -Ic:\program files (x86)\puyasde\tool\arm-none-eabi\include\newlib-nano
+    - -Ic:\program files (x86)\puyasde\tool\arm-none-eabi\include\c++\10.3.1
+    - -Ic:\program files
+      (x86)\puyasde\tool\arm-none-eabi\include\c++\10.3.1\arm-none-eabi\thumb\v6-m\nofp
+    - -Ic:\program files
+      (x86)\puyasde\tool\arm-none-eabi\include\c++\10.3.1\backward
+    - -Ic:\program files (x86)\puyasde\tool\lib\gcc\arm-none-eabi\10.3.1\include
+    - -Ic:\program files
+      (x86)\puyasde\tool\lib\gcc\arm-none-eabi\10.3.1\include-fixed
+    - -Ic:\program files (x86)\puyasde\tool\arm-none-eabi\include
+  Remove: []
+  CompilationDatabase: ./build/Project
+  Compiler: C:\Program Files (x86)\PuyaSDE\tool\bin\arm-none-eabi-gcc.exe

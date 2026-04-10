@@ -1,0 +1,13 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**",
+        "${workspaceFolder}/Inc",
+        "${workspaceFolder}/Src"
+    ],
+    "C_Cpp.default.compilerPath": "C:/Keil_v5/ARM/ARMCC/Bin/armcc.exe",
+    "files.associations": {
+        "*.h": "c",
+        "*.c": "c"
+    }
+}
