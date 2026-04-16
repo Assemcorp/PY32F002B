@@ -2,7 +2,7 @@
   ******************************************************************************
   * @file    main.c
   * @brief   Main program body
-  * @author  AssemCorp Application Team 2026 - [emre.karabek@assemcorp.com]
+  * @author  AssemCorp Application Team - [emre.karabek@assemcorp.com]
   ******************************************************************************
   */
 #include "main.h"
